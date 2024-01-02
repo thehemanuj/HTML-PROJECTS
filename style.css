@@ -1,0 +1,211 @@
+*{
+    padding: 0;
+    margin: 0;
+    color:white;
+    text-decoration: none;
+}
+
+#navbar{
+    height: 80px;
+    background-color:  rgb(6, 1, 20);
+    position:static;
+    margin-top: 20 px;
+}
+
+#a{
+    color:#f08804;
+    font-size: 25px;
+}
+
+#img{
+    margin-top:60px;
+}
+button{
+    background-color: #f08804;
+    border-radius: 2px;
+}
+a{
+    margin-right: 200px;
+}
+html{
+    overflow-y: scroll;
+}
+#image{
+    height:40px;
+    width:40px;
+    border-radius:50%;
+    margin-left:60px;
+    margin-top: 5px;
+
+}
+
+
+
+h1{
+    color:#f08804;
+    text-align: center;
+    text-decoration: wavy;
+    font-weight: 400;
+}
+#b,#c,#d{
+    margin-top: 20px;
+    width:100%;
+    height:200px;
+    display:flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+
+}
+.bb,.cc,.dd{
+    height:200px;
+    width: 200px;
+    display:inline;
+    border-radius: 50%;
+    background-color:darkblue;
+    border:2px solid  rgb(6, 1, 20);
+
+}
+
+#b11{
+    background-image:url(/shoes.jpeg);
+    background-size: cover;
+    
+}
+#b12{
+    background-image:url(/a1.jpeg);
+    background-size: cover;
+    
+}
+#b13{
+    background-image:url(/1.jpeg);
+    background-size: cover;
+    
+}
+#b14{
+    background-image:url(/shoes1.jpg);
+    background-size: cover;
+    
+}
+#b15{
+    background-image:url(/a2.jpeg);
+    background-size: cover;
+    
+}
+#b16{
+    background-image:url(/2.jpeg);
+    background-size: cover;
+    
+}
+#b17{
+    background-image:url(/shoes2.jpeg);
+    background-size: cover;
+    
+}
+#c11{
+    background-image:url(/a3.jpeg);
+    background-size: cover;
+    
+}
+#c12{
+    background-image:url(/3.jpeg);
+    background-size: cover;
+    
+}
+#c13{
+    background-image:url(/shoes3.jpeg);
+    background-size: cover;
+    
+}
+#c14{
+    background-image:url(/a4.jpeg);
+    background-size: cover;
+    
+}
+#c15{
+    background-image:url(/4.jpeg);
+    background-size: cover;
+    
+}
+#c16{
+    background-image:url(/shoes4.jpeg);
+    background-size: cover;
+    
+}
+#c17{
+    background-image:url(/a5.jpeg);
+    background-size: cover;
+    
+}
+#d11{
+    background-image:url(/5.jpeg);
+    background-size: cover;
+    
+}
+#d12{
+    background-image:url(/shoes5.jpeg);
+    background-size: cover;
+    
+}
+#d13{
+    background-image:url(/a6.jpeg);
+    background-size: cover;
+    
+}
+#d14{
+    background-image:url(/6.jpeg);
+    background-size: cover;
+    
+}
+#d15{
+    background-image:url(/shoes6.jpeg);
+    background-size: cover;
+    
+}
+#d16{
+    background-image:url(/a7.jpeg);
+    background-size: cover;
+    
+}
+#d17{
+    background-image:url(/7.jpeg);
+    background-size: cover;
+    
+}
+
+.aaa{
+    height:30px;
+    width:100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#a1{
+    color:darkblue;
+    font-family:cursive;
+}
+footer{
+    font-size: medium;
+    font-family: cursive;
+    text-align:center;
+    color: rgb(6, 1, 20);
+    background-color: rgb(106, 103, 103);
+}
+
+#asd{
+    background-color: rgb(155, 146, 146);
+    color: rgb(6, 1, 20);
+    font-family: cursive;
+    font-size:medium;
+    text-align:center;
+}
+
+#abcd{
+    height:50px;
+    color:#f08804;
+    background-color: rgb(6, 1, 20);
+}
+
+.aio{
+    text-align:center;
+}
